@@ -1,7 +1,7 @@
-Jasmine
-=======
+Unit Test
+=========
 
- Basic Test case Code on Jasmine frame work
+ Basic Unit test case
 
 * Clone the code
 * local server needed to run the test case
